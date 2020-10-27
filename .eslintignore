@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# nyc test coverage
+.nyc_output
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+yarn.lock
+package-lock.json
+
+# Optional REPL history
+.node_repl_history
+
+# Build Directories
+build
+
+# IDE specific
+.idea
+.DS_Store
+yarn.lock
+
+# for profiling the build
+webpack-stats.json
+
+# For emacs
+.tern-port
+
+# vim - see https://stackoverflow.com/a/4824199/4101408
+*.swp
+*.swo
+*~
+
+# For vscode
+.chrome
+.vscode
+.nvm
