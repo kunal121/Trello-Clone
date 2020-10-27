@@ -19,7 +19,7 @@
 - DELETE `/cards/delete_card/:id`
 - PUT `/cards/update_card/:id`
 
-* Payload
+  - Payload
   ```
      {
          desc: '',
@@ -33,3 +33,7 @@
 App> Board> Card
 
 - Used Context Api Pass State through all components
+
+# App Demo
+![Trello](https://user-images.githubusercontent.com/19689620/97259781-a085db80-1841-11eb-84ef-aa1bc356870e.gif)
+
